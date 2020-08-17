@@ -4,6 +4,6 @@ title: First Post
 published: true
 ---
 
-## This is my first blog wih Jekyll
+This is my first blog wih Jekyll
 
-## Testing heading2
+Testing 
